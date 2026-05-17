@@ -1,13 +1,12 @@
 # Nieo's Game Icon Pack
+<img width="35%"  alt="封面" src="https://github.com/user-attachments/assets/3e7aaa82-e979-4a0d-a21e-4822ce7ec200" />
+
 
 ## 570+ rounded style icons
-PNG (64px / 128px / 256px) and SVG Formats
-
-All corners are fully rounded - no sharp edges anywhere
-
-Perfect for game development
-
-Continuously updated
+- PNG (64px / 128px / 256px) and SVG Formats
+- All corners are fully rounded - no sharp edges anywhere
+- Perfect for game development
+- Continuously updated
 
 
 ## Icon Requests
@@ -21,7 +20,6 @@ Or download from **Releases** on the right sidebar
 
 
 ## Categories
-
 - UI
 - Media & Technology
 - Editor Tools
@@ -36,7 +34,6 @@ Or download from **Releases** on the right sidebar
 
 
 ## License
-
 **Allowed:**
 - Personal and commercial use
 - No attribution required
@@ -44,4 +41,3 @@ Or download from **Releases** on the right sidebar
 **Not Allowed:**
 - Reselling this icon pack directly 
 - Reselling modified versions of this icon pack
-
