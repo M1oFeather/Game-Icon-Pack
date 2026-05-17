@@ -1,16 +1,38 @@
 # Free Icons
 
-570+ 高质量圆角风格免费图标包  
-PNG + SVG 格式
+![Format](https://img.shields.io/badge/Format-PNG%20%7C%20SVG-green.svg)
+![Style](https://img.shields.io/badge/Style-Rounded-9C27B0.svg)
 
-## 下载地址
+**570+ rounded style icons**
+
+### Icon Requests
+If you have any icon requests, welcome to submit an Issue.
+
+### Download
 → [https://nieobie.itch.io/free-icons](https://nieobie.itch.io/free-icons)
+Or download from **Releases** on the right sidebar.
 
-## 包含分类
-- 用户界面
-- 媒体与科技
-- 编辑工具
-- 形状与符号
-- 游戏
-- 物品
-- 自然与饮食
+### Categories
+
+- UI
+- Media & Technology
+- Editor Tools
+- Shapes & Symbol
+- Game
+- Items
+- Nature & Food
+
+### Preview
+
+<img width="2048" height="6112" alt="ICONS574-2026 5 12" src="https://github.com/user-attachments/assets/dcabc0da-9c7e-450c-bfa7-5236d42824af" />
+
+### License
+
+**Allowed:**
+- Personal and commercial use
+- No attribution required
+
+**Not Allowed:**
+- Prohibited to resell this pack directly or with minor modifications
+
+---
