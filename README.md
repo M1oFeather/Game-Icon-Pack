@@ -1,4 +1,4 @@
-# Nieo's Game Icon Pack
+# Nieobie Game Icon Pack
 <img width="35%" alt="v1 03C" src="https://github.com/user-attachments/assets/04e6c7bb-c13d-4077-a3be-b2fc4caecd18" />
 
 
